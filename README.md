@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development such as web & mobile app, IoT dashboard, automation software, bot development, etc.
 - 🌱 I’m currently learning new technologies continuously
 - 💞️ I’m looking to collaborate on any kinds of paid projects.
-- 📫 How to reach me : @mail - nike1990.rang@gmail.com, discord - Nike#0202
+- 📫 How to reach me : @mail - nike1990.rang@gmail.com, discord - whitetiger1002
 
 <!---
 whitetiger1002/whitetiger1002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
