@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @whitetiger1002
-- 👀 I’m interested in software development such as web & mobile app, IoT dashboard, automation software, bot development, etc.
+- 👀 I’m interested in software development such as web & mobile apps, IoT dashboards, automation software, bot development, etc.
 - 🌱 I’m currently learning new technologies continuously
-- 💞️ I’m looking to collaborate on any kinds of paid projects.
-- 📫 How to reach me : @mail - nike1990.rang@gmail.com, discord - whitetiger1002
+- 💞️ I’m looking to collaborate on any kind of paid project.
+- 📫 How to reach me: @mail - eric.elite1002@gmail.com
 
 <!---
 whitetiger1002/whitetiger1002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
